@@ -6,6 +6,7 @@
     Typescript solution by @shyxn
     https://adventofcode.com/2023/day/3
 */
+
 import fs from "fs";
 const data: string[] = JSON.parse(fs.readFileSync("input.json").toString());
 
