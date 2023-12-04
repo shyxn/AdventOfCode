@@ -1,7 +1,7 @@
 /*
     AdventOfCode 2023 
     Day 3 - Gear Ratios
-    1st star
+    2nd star
 
     Typescript solution by @shyxn
     https://adventofcode.com/2023/day/3
